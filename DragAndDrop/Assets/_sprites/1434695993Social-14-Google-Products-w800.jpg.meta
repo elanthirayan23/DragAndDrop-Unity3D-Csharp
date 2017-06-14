@@ -1,0 +1,974 @@
+fileFormatVersion: 2
+guid: 87185d2031b5e844593f486e963139cc
+timeCreated: 1497424743
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: 1434695993Social-14-Google-Products-w800_0
+    21300002: 1434695993Social-14-Google-Products-w800_1
+    21300004: 1434695993Social-14-Google-Products-w800_2
+    21300006: 1434695993Social-14-Google-Products-w800_3
+    21300008: 1434695993Social-14-Google-Products-w800_4
+    21300010: 1434695993Social-14-Google-Products-w800_5
+    21300012: 1434695993Social-14-Google-Products-w800_6
+    21300014: 1434695993Social-14-Google-Products-w800_7
+    21300016: 1434695993Social-14-Google-Products-w800_8
+    21300018: 1434695993Social-14-Google-Products-w800_9
+    21300020: 1434695993Social-14-Google-Products-w800_10
+    21300022: 1434695993Social-14-Google-Products-w800_11
+    21300024: 1434695993Social-14-Google-Products-w800_12
+    21300026: 1434695993Social-14-Google-Products-w800_13
+    21300028: 1434695993Social-14-Google-Products-w800_14
+    21300030: 1434695993Social-14-Google-Products-w800_15
+    21300032: 1434695993Social-14-Google-Products-w800_16
+    21300034: 1434695993Social-14-Google-Products-w800_17
+    21300036: 1434695993Social-14-Google-Products-w800_18
+    21300038: 1434695993Social-14-Google-Products-w800_19
+    21300040: 1434695993Social-14-Google-Products-w800_20
+    21300042: 1434695993Social-14-Google-Products-w800_21
+    21300044: 1434695993Social-14-Google-Products-w800_22
+    21300046: 1434695993Social-14-Google-Products-w800_23
+    21300048: 1434695993Social-14-Google-Products-w800_24
+    21300050: 1434695993Social-14-Google-Products-w800_25
+    21300052: 1434695993Social-14-Google-Products-w800_26
+    21300054: 1434695993Social-14-Google-Products-w800_27
+    21300056: 1434695993Social-14-Google-Products-w800_28
+    21300058: 1434695993Social-14-Google-Products-w800_29
+    21300060: 1434695993Social-14-Google-Products-w800_30
+    21300062: 1434695993Social-14-Google-Products-w800_31
+    21300064: 1434695993Social-14-Google-Products-w800_32
+    21300066: 1434695993Social-14-Google-Products-w800_33
+    21300068: 1434695993Social-14-Google-Products-w800_34
+    21300070: 1434695993Social-14-Google-Products-w800_35
+    21300072: 1434695993Social-14-Google-Products-w800_36
+    21300074: 1434695993Social-14-Google-Products-w800_37
+    21300076: 1434695993Social-14-Google-Products-w800_38
+    21300078: 1434695993Social-14-Google-Products-w800_39
+    21300080: 1434695993Social-14-Google-Products-w800_40
+    21300082: 1434695993Social-14-Google-Products-w800_41
+    21300084: 1434695993Social-14-Google-Products-w800_42
+    21300086: 1434695993Social-14-Google-Products-w800_43
+    21300088: 1434695993Social-14-Google-Products-w800_44
+    21300090: 1434695993Social-14-Google-Products-w800_45
+    21300092: 1434695993Social-14-Google-Products-w800_46
+    21300094: 1434695993Social-14-Google-Products-w800_47
+    21300096: 1434695993Social-14-Google-Products-w800_48
+    21300098: 1434695993Social-14-Google-Products-w800_49
+    21300100: 1434695993Social-14-Google-Products-w800_50
+    21300102: 1434695993Social-14-Google-Products-w800_51
+    21300104: 1434695993Social-14-Google-Products-w800_52
+    21300106: 1434695993Social-14-Google-Products-w800_53
+    21300108: 1434695993Social-14-Google-Products-w800_54
+    21300110: 1434695993Social-14-Google-Products-w800_55
+    21300112: 1434695993Social-14-Google-Products-w800_56
+    21300114: 1434695993Social-14-Google-Products-w800_57
+    21300116: 1434695993Social-14-Google-Products-w800_58
+    21300118: 1434695993Social-14-Google-Products-w800_59
+    21300120: 1434695993Social-14-Google-Products-w800_60
+    21300122: 1434695993Social-14-Google-Products-w800_61
+    21300124: 1434695993Social-14-Google-Products-w800_62
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 1434695993Social-14-Google-Products-w800_0
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 715
+        width: 65
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 1, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 1434695993Social-14-Google-Products-w800_1
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 715
+        width: 77
+        height: 89
+      alignment: 9
+      pivot: {x: 0.32315677, y: 0.48544002}
+      border: {x: 1, y: 0, z: 2, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 1434695993Social-14-Google-Products-w800_2
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 715
+        width: 85
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 1434695993Social-14-Google-Products-w800_3
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 714.6667
+        width: 84.71429
+        height: 89.333336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 1434695993Social-14-Google-Products-w800_4
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 714.6667
+        width: 84.71429
+        height: 89.333336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 1434695993Social-14-Google-Products-w800_5
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 714.6667
+        width: 84.71429
+        height: 89.333336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 1434695993Social-14-Google-Products-w800_6
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 714.6667
+        width: 84.71429
+        height: 89.333336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 1434695993Social-14-Google-Products-w800_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 625.6667
+        width: 84.71429
+        height: 89.333336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 1434695993Social-14-Google-Products-w800_8
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 625.6667
+        width: 84.71429
+        height: 89.333336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 1434695993Social-14-Google-Products-w800_9
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 625.6667
+        width: 84.71429
+        height: 89.333336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 1434695993Social-14-Google-Products-w800_10
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 625.6667
+        width: 84.71429
+        height: 89.333336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 1434695993Social-14-Google-Products-w800_11
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 625.6667
+        width: 84.71429
+        height: 89.333336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 1434695993Social-14-Google-Products-w800_12
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 625.6667
+        width: 84.71429
+        height: 89.333336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 1434695993Social-14-Google-Products-w800_13
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 625.6667
+        width: 84.71429
+        height: 89.333336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 1434695993Social-14-Google-Products-w800_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 536.6667
+        width: 84.71429
+        height: 89.333336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 1434695993Social-14-Google-Products-w800_15
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 536.6667
+        width: 84.71429
+        height: 89.333336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 1434695993Social-14-Google-Products-w800_16
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 536.6667
+        width: 84.71429
+        height: 89.333336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 1434695993Social-14-Google-Products-w800_17
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 536.6667
+        width: 84.71429
+        height: 89.333336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 1434695993Social-14-Google-Products-w800_18
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 536.6667
+        width: 84.71429
+        height: 89.333336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 1434695993Social-14-Google-Products-w800_19
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 536.6667
+        width: 84.71429
+        height: 89.333336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 1434695993Social-14-Google-Products-w800_20
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 536
+        width: 84
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 1434695993Social-14-Google-Products-w800_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 447.66666
+        width: 84.71429
+        height: 89.333336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 1434695993Social-14-Google-Products-w800_22
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 447.66666
+        width: 84.71429
+        height: 89.333336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 1434695993Social-14-Google-Products-w800_23
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 447.66666
+        width: 84.71429
+        height: 89.333336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 1434695993Social-14-Google-Products-w800_24
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 447.66666
+        width: 84.71429
+        height: 89.333336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 1434695993Social-14-Google-Products-w800_25
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 447.66666
+        width: 84.71429
+        height: 89.333336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 1434695993Social-14-Google-Products-w800_26
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 447.66666
+        width: 84.71429
+        height: 89.333336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 1434695993Social-14-Google-Products-w800_27
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 447.66666
+        width: 84.71429
+        height: 89.333336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 1434695993Social-14-Google-Products-w800_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 358.66666
+        width: 84.71429
+        height: 89.333336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 1434695993Social-14-Google-Products-w800_29
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 358.66666
+        width: 84.71429
+        height: 89.333336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 1434695993Social-14-Google-Products-w800_30
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 358
+        width: 85
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 1434695993Social-14-Google-Products-w800_31
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 358.66666
+        width: 84.71429
+        height: 89.333336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 1434695993Social-14-Google-Products-w800_32
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 358.66666
+        width: 84.71429
+        height: 89.333336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 1434695993Social-14-Google-Products-w800_33
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 358.66666
+        width: 84.71429
+        height: 89.333336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 1434695993Social-14-Google-Products-w800_34
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 358.66666
+        width: 84.71429
+        height: 89.333336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 1434695993Social-14-Google-Products-w800_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 269.66666
+        width: 84.71429
+        height: 89.333336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 1434695993Social-14-Google-Products-w800_36
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 267
+        width: 85
+        height: 89
+      alignment: 9
+      pivot: {x: 0.8504926, y: 0.45664728}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 1434695993Social-14-Google-Products-w800_37
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 269.66666
+        width: 84.71429
+        height: 89.333336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 1434695993Social-14-Google-Products-w800_38
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 269.66666
+        width: 84.71429
+        height: 89.333336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 1434695993Social-14-Google-Products-w800_39
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 269.66666
+        width: 84.71429
+        height: 89.333336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 1434695993Social-14-Google-Products-w800_40
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 269.66666
+        width: 84.71429
+        height: 89.333336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 1434695993Social-14-Google-Products-w800_41
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 269.66666
+        width: 84.71429
+        height: 89.333336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 1434695993Social-14-Google-Products-w800_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 180.66666
+        width: 84.71429
+        height: 89.333336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 1434695993Social-14-Google-Products-w800_43
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 180.66666
+        width: 84.71429
+        height: 89.333336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 1434695993Social-14-Google-Products-w800_44
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 180.66666
+        width: 84.71429
+        height: 89.333336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 1434695993Social-14-Google-Products-w800_45
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 180.66666
+        width: 84.71429
+        height: 89.333336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 1434695993Social-14-Google-Products-w800_46
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 180.66666
+        width: 84.71429
+        height: 89.333336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 1434695993Social-14-Google-Products-w800_47
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 180.66666
+        width: 84.71429
+        height: 89.333336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 1434695993Social-14-Google-Products-w800_48
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 180.66666
+        width: 84.71429
+        height: 89.333336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 1434695993Social-14-Google-Products-w800_49
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 91.666664
+        width: 84.71429
+        height: 89.333336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 1434695993Social-14-Google-Products-w800_50
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 91.666664
+        width: 84.71429
+        height: 89.333336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 1434695993Social-14-Google-Products-w800_51
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 91.666664
+        width: 84.71429
+        height: 89.333336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 1434695993Social-14-Google-Products-w800_52
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 91.666664
+        width: 84.71429
+        height: 89.333336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 1434695993Social-14-Google-Products-w800_53
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 91.666664
+        width: 84.71429
+        height: 89.333336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 1434695993Social-14-Google-Products-w800_54
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 91.666664
+        width: 84.71429
+        height: 89.333336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 1434695993Social-14-Google-Products-w800_55
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 91.666664
+        width: 84.71429
+        height: 89.333336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 1434695993Social-14-Google-Products-w800_56
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 3
+        width: 85
+        height: 89
+      alignment: 9
+      pivot: {x: 0.8047762, y: 0.52890146}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 1434695993Social-14-Google-Products-w800_57
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 2.6666641
+        width: 84.71429
+        height: 89.333336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 1434695993Social-14-Google-Products-w800_58
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 2.6666641
+        width: 84.71429
+        height: 89.333336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 1434695993Social-14-Google-Products-w800_59
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 2.6666641
+        width: 84.71429
+        height: 89.333336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 1434695993Social-14-Google-Products-w800_60
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 2.6666641
+        width: 84.71429
+        height: 89.333336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 1434695993Social-14-Google-Products-w800_61
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 2.6666641
+        width: 84.71429
+        height: 89.333336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 1434695993Social-14-Google-Products-w800_62
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 2.6666641
+        width: 84.71429
+        height: 89.333336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
